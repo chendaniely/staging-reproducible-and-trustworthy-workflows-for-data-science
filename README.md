@@ -21,6 +21,7 @@ quarto convert 01-intro-to-ds-workflows.ipynb # converts to qmd
 ```
 install.packages(c(
   'tidyverse',
-  'reticulate'
+  'reticulate',
+  'gapminder'
 ))
 ```

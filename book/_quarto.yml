@@ -39,7 +39,7 @@ custom-callout:
 
   activity:
     icon: true
-    icon-symbol: "fa-chalkboard-user"
+    icon-symbol: "🧩"
     color: "blue"
 
   exercise:

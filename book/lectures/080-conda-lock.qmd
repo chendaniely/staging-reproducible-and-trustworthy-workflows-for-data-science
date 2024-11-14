@@ -1,0 +1,26 @@
+---
+title: "Conda lock: reproducible lock files for conda environments"
+---
+
+## Learning Objectives {.unnumbered}
+
+{{< include ../learning_objectives/080-conda-lock.qmd >}}
+
+## What is conda lock?
+
+## Conda lock file vs `environment.yml`
+
+## Creating conda lock files
+
+:::{.exercise title="Exercise 1"}
+:::
+
+### Specifying the platform
+
+:::{.exercise title="Exercise 2"}
+:::
+
+### Creating environments from conda lock files
+
+:::{.exercise title="Exercise 3"}
+:::

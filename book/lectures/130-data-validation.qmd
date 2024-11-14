@@ -1,0 +1,33 @@
+---
+title: Data validation
+---
+
+## Learning Objectives {.unnumbered}
+
+{{< include ../learning_objectives/130-data-validation.qmd >}}
+
+## The role of data validation in data analysis
+
+
+## Where does data validation fit in data analysis?
+
+
+
+## Data validation checks
+
+
+
+### Introduction to Python's Pandera
+
+
+### Validating data with Pandera
+
+#### Dataframe Schema
+
+#### Data validation
+
+
+### Dropping invalid rows
+
+
+### The data validation ecosystem

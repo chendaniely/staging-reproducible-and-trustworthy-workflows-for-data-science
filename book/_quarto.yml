@@ -1,0 +1,57 @@
+project:
+  type: book
+
+number-depth: 3
+
+book:
+  title: "Reproducible and Trustworthy Workflows for Data Science"
+  #author: "Norah Jones"
+  #date: "2024-10-28"
+  chapters:
+    - index.qmd
+    - lectures/010-intro-to-ds-workflows.qmd
+    - lectures/020-intro-to-bash.qmd
+    - lectures/030-ssh-for-authentication.qmd
+    - lectures/040-version-control-1.qmd
+    - lectures/050-version-control-2.qmd
+    - lectures/060-version-control-3.qmd
+    - lectures/070-filenames-project-organization.qmd
+    - lectures/080-conda-lock.qmd
+    - lectures/090-virtual-environments.qmd
+    - lectures/100-containerization-1.qmd
+    - lectures/110-containerization-2.qmd
+    - lectures/120-containerization-3.qmd
+    - lectures/130-data-validation.qmd
+    - lectures/140-intro-to-testing-code.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+  pdf:
+    documentclass: scrreprt
+
+custom-callout:
+  definition:
+    icon: true
+    icon-symbol: "📝"
+    color: "pink"
+
+  activity:
+    icon: true
+    icon-symbol: "fa-chalkboard-user"
+    color: "blue"
+
+  exercise:
+    icon: true
+    icon-symbol: "🏋️"
+    color: "green"
+
+  relevance-project:
+    title: Relevance to course project
+    icon: true
+    icon-symbol: "💻"
+    color: "orange"
+
+filters:
+- custom-callout

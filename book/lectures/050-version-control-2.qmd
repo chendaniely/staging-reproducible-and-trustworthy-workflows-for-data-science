@@ -226,7 +226,7 @@ and merge it in if they approve it.
 
 <img src ="../img/code-review-suggest-change.png" width="100%">
 
-### Demo: do a code review:
+:::{.exercise title="Demo: do a code review"}
 
 I am going to demo a code review of a pull request. I have set-up a template GitHub repository for you so that you can easily generate a pull request for you to review if you want to try this later.
 
@@ -245,9 +245,9 @@ I am going to demo a code review of a pull request. I have set-up a template Git
 4. Add comments and suggested changes using the `+` sign beside the line numbers (the first time you do this will trigger the start of your code review. Need help? See [GitHub's how to on reviewing proposed changes in a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/reviewing-proposed-changes-in-a-pull-request).
 
 5. After you have made all the comments and suggested changes, then add a general comment for the code review, select "Request Changes" and submit your code review.
+:::
 
-
-### Demo: Accept suggested changes from a code review:
+:::{.exercise title="Demo: Accept suggested changes from a code review"}
 
 **Steps:**
 
@@ -256,7 +256,7 @@ I am going to demo a code review of a pull request. I have set-up a template Git
 2. Click on the "Show all reviewers" link beside the red "Changes requested"" text. Then click on the `...` beside the reviewer and click "Approve changes".
 
 3. Finally click on the green buttons ("Merge Pull Request" & "Confirm merge") to merge the pull request.
-
+:::
 
 :::{.activity title="Discussion"}
 

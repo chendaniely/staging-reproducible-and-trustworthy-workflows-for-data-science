@@ -15,3 +15,12 @@ cd ..
 ```bash
 quarto convert 01-intro-to-ds-workflows.ipynb # converts to qmd
 ```
+
+## Notes for R packages
+
+```
+install.packages(c(
+  'tidyverse',
+  'reticulate'
+))
+```

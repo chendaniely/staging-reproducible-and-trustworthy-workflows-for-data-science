@@ -1,11 +1,11 @@
-@PHONY: preview render book
+@PHONY: preview render
 
 preview:
 	quarto preview book/index.qmd --port 54321
 
 render:
-	rm -rf docs/
+	make clean
 	quarto render book/
 
-book:
-	make render
+clean:
+	rm -rf docs

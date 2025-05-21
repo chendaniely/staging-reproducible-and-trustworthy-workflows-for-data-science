@@ -1,3 +1,8 @@
+This repo was a staging repo to convert the book into a Quarto project.
+It has now been ported to the main repo:
+
+<https://github.com/UBC-DSCI/reproducible-and-trustworthy-workflows-for-data-science>
+
 # Reproducible and Trustworthy Workflows for Data Science
 
 ## Setup
